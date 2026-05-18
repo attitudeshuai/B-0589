@@ -1,0 +1,10 @@
+com\xian\medical\controller\InsuranceControllerTest.class
+com\xian\medical\controller\InsuranceControllerTest$ListTests.class
+com\xian\medical\controller\UserControllerTest$LoginTests.class
+com\xian\medical\controller\UserControllerTest$UpdatePasswordTests.class
+com\xian\medical\service\impl\UserServiceImplTest.class
+com\xian\medical\controller\InsuranceControllerTest$GetByStudentIdTests.class
+com\xian\medical\service\impl\UserServiceImplTest$LoginTests.class
+com\xian\medical\controller\InsuranceControllerTest$UpdateTests.class
+com\xian\medical\controller\InsuranceControllerTest$GetStatsTests.class
+com\xian\medical\controller\UserControllerTest.class

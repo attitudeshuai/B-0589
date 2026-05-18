@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.xian.medical.controller.InsuranceControllerTest$GetStatsTests
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.073 s -- in com.xian.medical.controller.InsuranceControllerTest$GetStatsTests
